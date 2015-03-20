@@ -1,5 +1,7 @@
 # self_consciousness
 
+[![Join the chat at https://gitter.im/JScott/self_consciousness](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JScott/self_consciousness?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A module on top of self_identity to store what's "normal" and how the code has changed since then.
 
 ## Usage
